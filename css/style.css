@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+};
+
+.texto{
+   background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+#js{
+    color: goldenrod;
+}
+
+#css{
+    color: blue;
+}
+
+#html{
+    color: orange;
+}
